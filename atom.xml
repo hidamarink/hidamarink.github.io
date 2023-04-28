@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.kyuu.us</id>
+    <title>众神眷恋的______</title>
+    <updated>2023-04-28T19:23:34.816Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.kyuu.us"/>
+    <link rel="self" href="https://blog.kyuu.us/atom.xml"/>
+    <subtitle>不是越南人</subtitle>
+    <logo>https://blog.kyuu.us/images/avatar.png</logo>
+    <icon>https://blog.kyuu.us/favicon.ico</icon>
+    <rights>All rights reserved 2023, 众神眷恋的______</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello Blog]]></title>
+        <id>https://blog.kyuu.us/post/hello-blog/</id>
+        <link href="https://blog.kyuu.us/post/hello-blog/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>😎1</p>
+]]></content>
+    </entry>
+</feed>
